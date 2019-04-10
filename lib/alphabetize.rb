@@ -5,4 +5,5 @@ def alphabetize(arr)
   esperanto_alphabet = "abcĉdefgĝhĥijĵklmnoprsŝtuŭvz"
   chopped = esperanto_alphabet.split(//)
      
-end
+endpry
+
