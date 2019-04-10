@@ -7,7 +7,7 @@ def alphabetize(arr)
    chopped = esperanto_alphabet.split(//)
      chopped.each_with_index do |letter, index|
        binding.pry
-        "#{index}.#{letter}"
+        
      end
 
 end
