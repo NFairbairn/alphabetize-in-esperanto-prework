@@ -9,5 +9,5 @@ def alphabetize(arr)
        binding.pry
         "#{index}.#{letter}"
      end
-   binding.pry
+
 end
