@@ -5,7 +5,9 @@ def alphabetize(arr)
   esperanto_alphabet = "abcĉdefgĝhĥijĵklmnoprsŝtuŭvz"
   chopped = esperanto_alphabet.split(//)
   chopped.each_with_index do |letter, index|
-    
+    arr.each do |k,v|
+
+    end
   end
   binding.pry
 end
