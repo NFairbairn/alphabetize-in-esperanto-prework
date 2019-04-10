@@ -2,6 +2,7 @@ require 'pry'
 
 def alphabetize(arr)
   # code here
-  ESPERANTO_ALPHABET = "abcĉdefgĝhĥijĵklmnoprsŝtuŭvz"
+  ESPERANTO_ALPHABET
+  esperanto_alphabet = "abcĉdefgĝhĥijĵklmnoprsŝtuŭvz"
   binding.pry
 end
